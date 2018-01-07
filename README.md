@@ -9,3 +9,8 @@
 `npm start` <br>
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+## Sample
+![Start Game](img/start.png) <br><br><br>
+![Win Game](img/win.png) <br><br><br>
+![Draw Game](img/draw.png)
